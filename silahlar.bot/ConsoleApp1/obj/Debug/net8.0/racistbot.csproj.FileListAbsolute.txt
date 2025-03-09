@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\bin\Debug\net8.0\racistbot.exe
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\bin\Debug\net8.0\racistbot.deps.json
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\bin\Debug\net8.0\racistbot.runtimeconfig.json
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\bin\Debug\net8.0\racistbot.dll
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\bin\Debug\net8.0\racistbot.pdb
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\racistbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\racistbot.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\racistbot.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\racistbot.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\racistbot.dll
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\refint\racistbot.dll
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\racistbot.pdb
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\racistbot.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\silahlar.bot\ConsoleApp1\obj\Debug\net8.0\ref\racistbot.dll
